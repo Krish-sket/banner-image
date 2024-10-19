@@ -1,0 +1,9 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.main-container {
+    background-image: url(https://img.freepik.com/premium-photo/wide-angle-shot-single-tree-growing-clouded-sky-sunset-surrounded-by-grass_1033124-10.jpg);
+    height: 400px;
+    width: 550px;
+}
